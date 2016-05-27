@@ -1,2 +1,2 @@
 # QT_Learn
-* qt联系
+* qt练习
